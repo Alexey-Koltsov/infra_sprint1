@@ -1,0 +1,5 @@
+IP: 158.160.77.6;
+name_taski: https://taskcreateproject.hopto.org/;
+name_kittygram: https://kotikimoi.ddns.net/;
+login: AlexeyKoltsov;
+password: nastroenie;
